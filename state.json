@@ -1,0 +1,187 @@
+[
+    {
+        "state": "Abia",
+        "capital": "Umuahia",
+        "slogan": "God's own state"
+    },
+    {
+        "state": "Adamawa",
+        "capital": "Yola",
+        "slogan": "Land of beauty, sunshine and hospitality"
+    },
+    {
+        "state": "Akwa Ibom",
+        "capital": "Uyo",
+        "slogan": "Promise land"
+    },
+    {
+        "state": "Anambra",
+        "capital": "Awka",
+        "slogan": "Home for all"
+    },
+    {
+        "state": "Bauchi",
+        "capital": "Bauchi",
+        "slogan": "Pearl of tourism"
+    },
+    {
+        "state": "Bayelsa",
+        "capital": "Yenagoa",
+        "slogan": "Glory of all lands"
+    },
+    {
+        "state": "Benue",
+        "capital": "Makurdi",
+        "slogan": "The Nigeria's food basket"
+    },
+    {
+        "state": "Borno",
+        "capital": "Maiduguri",
+        "slogan": "Home of peace"
+    },
+    {
+        "state": "Cross River",
+        "capital": "Calabar",
+        "slogan": "The naiton's paradise"
+    },
+    {
+        "state": "Delta",
+        "capital": "Asaba",
+        "slogan": "The big heart"
+    },
+    {
+        "state": "Ebonyi",
+        "capital": "Abakaliki",
+        "slogan": "Salt of the nation"
+    },
+    {
+        "state": "Edo",
+        "capital": "Benin",
+        "slogan": "The heartbeat of the nation"
+    },
+    {
+        "state": "Ekiti",
+        "capital": "Ado-Ekiti",
+        "slogan": "Fountain of knowledge"
+    },
+    {
+        "state": "Enugu",
+        "capital": "Enugu",
+        "slogan": "Coal city state"
+    },
+    {
+        "state": "Gombe",
+        "capital": "Gombe",
+        "slogan": "Jewel in the savannah"
+    },
+    {
+        "state": "Imo",
+        "capital": "Owerri",
+        "slogan": "The eastern heartland"
+    },
+    {
+        "state": "Jigawa",
+        "capital": "Dutse",
+        "slogan": "The new world"
+    },
+    {
+        "state": "Kaduna",
+        "capital": "Kaduna",
+        "slogan": "Centre of learning"
+    },
+    {
+        "state": "Kano",
+        "capital": "Kano",
+        "slogan": "Centre of commerce"
+    },
+    {
+        "state": "Kastina",
+        "capital": "Kastina",
+        "slogan": "Home of hospitality"
+    },
+    {
+        "state": "Kebbi",
+        "capital": "Birnin Kebbi",
+        "slogan": "Land of equity"
+    },
+    {
+        "state": "Kogi",
+        "capital": "Lokoja",
+        "slogan": "The confluence state"
+    },
+    {
+        "state": "Kwara",
+        "capital": "Ilorin",
+        "slogan": "The place of harmony"
+    },
+    {
+        "state": "Lagos",
+        "capital": "Ikeja",
+        "slogan": "Centre of excellence"
+    },
+    {
+        "state": "Nassarawa",
+        "capital": "Lafia",
+        "slogan": "Nigeria's home of solid minerals"
+    },
+    {
+        "state": "Niger",
+        "capital": "Minna",
+        "slogan": "The power state"
+    },
+    {
+        "state": "Ogun",
+        "capital": "Abeokuta",
+        "slogan": "Gateway state"
+    },
+    {
+        "state": "Ondo",
+        "capital": "Akure",
+        "slogan": "Sunshine state"
+    },
+    {
+        "state": "Osun",
+        "capital": "Osogbo",
+        "slogan": "Land of virtue"
+    },
+    {
+        "state": "Oyo",
+        "capital": "Ibadan",
+        "slogan": "Pace setter"
+    },
+    {
+        "state": "Plateau",
+        "capital": "Jos",
+        "slogan": "Home of peace and tourism"
+    },
+    {
+        "state": "Rivers",
+        "capital": "Port Harcourt",
+        "slogan": "Treasure base"
+    },
+    {
+        "state": "Sokoto",
+        "capital": "Sokoto",
+        "slogan": "The seat of the caliphate"
+    },
+    {
+        "state": "Taraba",
+        "capital": "Jalingo",
+        "slogan": "Nature's gift to the nation"
+    },
+    {
+        "state": "Yobe",
+        "capital": "Damaturu",
+        "slogan": "The young shall grow"
+    },
+    {
+        "state": "Zamfara",
+        "capital": "Gusau",
+        "slogan": "Home of agricultural products"
+    },
+    {
+        "state": "FCT",
+        "capital": "Abuja",
+        "slogan": "Centre of unity"
+    }
+]
